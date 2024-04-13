@@ -1,10 +1,5 @@
 ## Welcome to my project! This mobile application represents an enhanced version of IMDb, leveraging the capabilities of the TMDb API to provide comprehensive information about movies and TV shows. 
 
-![](Home.png)
-![](details.png)
-![](details2.png)
-![](details3.png)
-
 #### Functionality:
     
 ##### 1. Home:
@@ -29,7 +24,15 @@ The Profile section provides users with a personalized space where they can mana
 ##### Users can view their activity history, adjust notification settings, and customize their profile to reflect their individual preferences. This application aims to provide a seamless and enjoyable experience for users passionate about movies and TV shows, allowing them to easily explore, discover, and organize their entertainment content.
 
 #### Technologies Used:
+- MVC (Model-View-Controller) Architecture
+- [Core Data](https://developer.apple.com/documentation/coredata/)
 - [SnapKit](https://github.com/SnapKit/SnapKit)
 - [Kingfisher](https://github.com/onevcat/Kingfisher)
 - [Moya](https://github.com/Moya/Moya)
 - [Alamofire](https://github.com/Alamofire/Alamofire)
+
+--- 
+![](Home.png)
+![](details.png)
+![](details2.png)
+![](details3.png)
