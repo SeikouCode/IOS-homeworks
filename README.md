@@ -25,6 +25,7 @@ The Profile section provides users with a personalized space where they can mana
 ---
 #### Technologies Used:
 - MVC (Model-View-Controller) Architecture
+- [CocoaPods](https://cocoapods.org)
 - [Core Data](https://developer.apple.com/documentation/coredata/)
 - [SnapKit](https://github.com/SnapKit/SnapKit)
 - [Kingfisher](https://github.com/onevcat/Kingfisher)
