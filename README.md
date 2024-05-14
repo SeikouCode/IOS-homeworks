@@ -34,7 +34,10 @@ The Profile section provides users with a personalized space where they can mana
 
 --- 
 #### Screenshots
-![](Home.png)
-![](details.png)
-![](details2.png)
-![](details3.png)
+
+<p float="left">
+  <img src="Home.png" width="250" height="500" alt="Home Screen" style="margin-right: 10px;">
+  <img src="details.png" width="250" height="500" alt="Details Screen 1" style="margin-right: 10px;">
+  <img src="details2.png" width="250" height="500" alt="Details Screen 2" style="margin-right: 10px;">
+  <img src="details3.png" width="250" height="500" alt="Details Screen 3">
+</p>
